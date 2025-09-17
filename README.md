@@ -11,7 +11,7 @@ Our chatbot offers **two powerful modes of analysis**:
 1. **Topic-Based Analysis** → Enter a topic, and **Gemini AI** will analyze recent tweets to give a deep understanding of public opinion.  
 2. **Sentiment-Based Analysis** → Input a single tweet, and our **ML models** classify it as **Positive**, **Negative**, or **Neutral**.
 
-> 🌐 **Live Demo:** [Try it here](https://Fire-pixel19.github.io/ChatbotCompetition/)
+> 🌐 **Live Demo:** [Try it here](https://sentimentanalysis.solutions/)
 
 ---
 
@@ -88,21 +88,6 @@ Your app will run at: **http://127.0.0.1:5000/**
 
 ---
 
-## 🌐 Deployment on GitHub Pages
-We’ve configured this project so it can be **hosted directly on GitHub Pages**, making it easy to share with judges or anyone online.
-
-### **Steps:**
-1. Push all code to a **GitHub repository**.
-2. Go to **Settings → Pages**.
-3. Under *Deploy from branch*, select the `main` branch and `/root` folder.
-4. Wait for deployment → You’ll get a link like:  
-   ```
-   https://<your-username>.github.io/sentiment-analysis-chatbot/
-   ```
-5. Update the **Live Demo** link in this README.
-
----
-
 ## 🌐 Project Structure
 ```
 📂 sentiment-analysis-chatbot
@@ -121,7 +106,7 @@ We’ve configured this project so it can be **hosted directly on GitHub Pages**
 ---
 
 ## 🎥 Live Demo & Screenshots
-- 🌐 **Live Demo:** [Click Here](https://Fire-pixel19.github.io/ChatbotCompetition/)
+- 🌐 **Live Demo:** [Click Here](https://sentimentanalysis.solutions/)
 - *Screenshots Coming Soon!*
 
 ---
