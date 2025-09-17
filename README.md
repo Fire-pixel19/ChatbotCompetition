@@ -11,7 +11,7 @@ Our chatbot offers **two powerful modes of analysis**:
 1. **Topic-Based Analysis** → Enter a topic, and **Gemini AI** will analyze recent tweets to give a deep understanding of public opinion.  
 2. **Sentiment-Based Analysis** → Input a single tweet, and our **ML models** classify it as **Positive**, **Negative**, or **Neutral**.
 
-> 🌐 **Live Demo:** [Try it here](https://Fire-pixel19.github.io/sentiment-analysis-chatbot/)
+> 🌐 **Live Demo:** [Try it here](https://Fire-pixel19.github.io/ChatbotCompetition/)
 
 ---
 
@@ -121,7 +121,7 @@ We’ve configured this project so it can be **hosted directly on GitHub Pages**
 ---
 
 ## 🎥 Live Demo & Screenshots
-- 🌐 **Live Demo:** [Click Here](https://Fire-pixel19.github.io/sentiment-analysis-chatbot/)
+- 🌐 **Live Demo:** [Click Here](https://Fire-pixel19.github.io/ChatbotCompetition/)
 - *Screenshots Coming Soon!*
 
 ---
